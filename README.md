@@ -1,6 +1,6 @@
 <h1 align="center"> YouTube-Clone </h1>
 
-<h4 align="center"> YouTube-Clone is a simulation of YouTubet </h4>
+<h4 align="center"> YouTube-Clone is a simulation of YouTube </h4>
 
 ## project Demo:
 https://khaledmasry0.github.io/YouTube-Clone/
