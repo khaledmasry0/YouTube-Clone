@@ -11,7 +11,7 @@ https://khaledmasry0.github.io/YouTube-Clone/
 
 For Creating a React project
 
-###  `Material UI` , `React-icons`
+###  `Material UI`
 for styling and icons
 
 ### `RapidApi`
