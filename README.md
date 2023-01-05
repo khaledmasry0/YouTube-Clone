@@ -15,7 +15,7 @@ For Creating a React project
 for styling and icons
 
 ### `RapidApi`
-for fetching the data from an youtupe api
+for fetching the data from an youtupe api 
 
 ### `React-player`
 A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable
